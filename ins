@@ -26,9 +26,9 @@ fi
 if [ "$1" == status ]; then
     badvpnpid="$(ps x | grep badvpn | grep -v grep | awk '{print $1}')"
     if [ -n "$badvpnpid" ]; then
-        echo 'Badvpn esta en ejecucion (ON)'
+        echo 'ON'
     else
-        echo 'Badvpn no esta en ejecucion (OFF)'
+        echo 'OFF'
     fi
 fi
 
