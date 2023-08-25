@@ -6,7 +6,7 @@ clear
 source <(curl -sSL https://www.dropbox.com/s/i32r4rvk9doay0x/module)
 [[ -e /bin/ejecutar/msg ]] && source /bin/ejecutar/msg
 msg -bar
-ADM_inst="/etc/adm-lite" && [[ ! -d ${ADM_inst} ]] && exit
+ADM_inst="/home/ivanvps/adm-lite" && [[ ! -d ${ADM_inst} ]] && exit
 system=$(cat -n /etc/issue |grep 1 |cut -d ' ' -f6,7,8 |sed 's/1//' |sed 's/      //')
 vercion=$(echo $system|awk '{print $2}'|cut -d '.' -f1,2)
 echo -e "ESPERE UN MOMENTO MIENTRAS FIXEAMOS SU SISTEMA "
@@ -945,7 +945,7 @@ msg -bar
 selection=$(selection_fun 3)
 case ${selection} in
     1)
-    wget -q -O /etc/adm-lite/PDirect.py https://raw.githubusercontent.com/ChumoGH/ChumoGH-Script/master/Python/PDirect.py
+    wget -q -O /home/ivanvps/adm-lite/PDirect.py https://raw.githubusercontent.com/ChumoGH/ChumoGH-Script/master/Python/PDirect.py
     mod1 "${conect}" 
     sleep 2s
     ;;
