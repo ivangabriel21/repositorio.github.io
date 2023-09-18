@@ -1,0 +1,41 @@
+<user-mapping>
+  <!-- En username="admin" Cambialo por el nombre de usuario para El Panel y en password="CONTRASEÑA_EN_MD5" Pon la contraseña copida anteriormente!-->
+  <authorize username="admin" password="CONTRASEÑA_EN_MD5" encoding="md5">
+   <connection name="GuacamoleVNC">
+     <protocol>vnc</protocol>
+     <param name="hostname">localhost</param>
+     <param name="port">5901</param>
+     <param name="password">XXXX</param>
+   </connection>
+    <!-- Configura La sesion ssh y etc!-->
+   <connection name="GuacamoleSSH">
+     <protocol>ssh</protocol>
+     <param name="hostname">localhost</param>
+     <param name="username">root</param>
+     <param name="port">22</param>
+     <param name="password">XXXX</param>
+   </connection>
+   <connection name="UbuntuRDP">
+     <protocol>rdp</protocol>
+     <param name="hostname">10.20.10.7</param>
+     <param name="username">xrdpuser</param>
+     <param name="port">3389</param>
+     <param name="password">XXXXX</param>
+  </connection>
+  <connection name="WindowsRDP">
+     <protocol>rdp</protocol>
+     <param name="hostname">10.20.10.5</param>
+     <param name="port">3389</param>
+     <param name="username">administrator</param>
+     <param name="password">XXXX</param>
+     <param name="ignore-cert">true</param>
+  </connection>
+  <connection name="WindowsTELNET">
+     <protocol>telnet</protocol>
+     <param name="hostname">10.20.10.5</param>
+     <param name="port">23</param>
+     <param name="username">administrator</param>
+     <param name="password">XXXX</param>
+  </connection>
+ </authorize>
+</user-mapping>
