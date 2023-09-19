@@ -1,0 +1,32 @@
+[
+  {
+    "host": "45.77.160.29",
+    "image": "us.png",
+    "name": "Jvm Dominicana [Internet]"
+  },
+  {
+    "host": "vlite1.tlsvpnfats.net",
+    "image": "us.png",
+    "name": "Miami [Dedicado] [Gaming]"
+  },
+    {
+    "host": "45.147.99.208",
+    "image": "us.png",
+    "name": "Pakistan Server Europeo"
+  },
+  {
+    "host": "193.106.248.42",
+    "image": "us.png",
+    "name": "Miami [Directo]"
+  },
+  {
+    "host": "193.106.248.41",
+    "image": "us.png",
+    "name": "Miami 2 [Gaming]"
+  },
+  {
+    "host": "5.161.189.163",
+    "image": "us.png",
+    "name": "Ashburn"
+  }
+]
