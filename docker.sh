@@ -9,3 +9,5 @@ read -p "Enter "
 sudo apt install docker-ce
 sudo systemctl status docker
 read -p "enter"
+
+ngrok config add-authtoken 2VaL3LAsgw2R7Hl46qj2TbJ5fCr_2NsVnR9cxV9SQRk6dm6hR
