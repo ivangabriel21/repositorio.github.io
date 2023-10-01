@@ -1,0 +1,8 @@
+apt update
+wget -P /bin/ https://raw.githubusercontent.com/ivangabriel21/DependeciaDX/main/smc
+chmod +x /bin/smc
+sudo rm -rf /etc/apt/sources.list
+wget -P /etc/apt/ https://github.com/ivangabriel21/DependeciaDX/raw/main/sources.list
+apt update
+sudo apt install openjdk-17-jdk
+sudo apt install openjdk-17-jre
