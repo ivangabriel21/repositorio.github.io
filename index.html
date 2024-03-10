@@ -7,5 +7,32 @@
       <h1>Repositorio original de <a href="https://quickm.net/IvanGabriel21.html">IvanGabriel21@</a></h1> <br>
       <h2>Todas las descargar aqui estan libre de virus</h2>
     </center>
+
+    <h1>Lista de Archivos de GitHub</h1>
+    <ul id="fileList"></ul>
+
+    <script>
+        // Repositorio y usuario en GitHub
+        const username = 'ivangabriel21';
+        const repo = 'repositorio.github.io';
+
+        // URL de la API de GitHub para obtener la lista de archivos
+        const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents`;
+
+        // Hacer solicitud a la API de GitHub
+        fetch(apiUrl)
+            .then(response => response.json())
+            .then(data => {
+                const fileListElement = document.getElementById('fileList');
+                data.forEach(file => {
+                    if (file.type === 'file') {
+                        const listItem = document.createElement('li');
+                        listItem.textContent = file.name;
+                        fileListElement.appendChild(listItem);
+                    }
+                });
+            })
+            .catch(error => console.error('Error al obtener la lista de archivos:', error));
+    </script>
   </body>
 </html>
