@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Como tener acceso root sin saberse la contraseña ROOT</h1> <br>
+    <h2>Descarga el archivo de github</h2>
+    <pre><code>$ wget https://github.com/techcode1001/replit_root/releases/download/v1.0/yt.zip</code></pre>
+    <pre><code>curl -O https://repo.quickm.net/proot</code></pre>
+    <pre><code>unzip yt.zip; unzip root.zip; tar -xvf root.tar.xz</code></pre>
+    <h2>Ejecutar el root</h2>
+    <pre><code>proot -S . /bin/bash</code></pre>
+    <h2>Alternativamente si no funciona el de arriba</h2>
+    <pre><code>./proot -0 -w / -b /dev -b /proc -b /sys /bin/sh</code></pre>
+</body>
+</html>
