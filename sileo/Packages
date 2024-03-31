@@ -6,3 +6,4 @@ Depiction: https://repo.quickm.net/debs/com.ivan.do.deb
 Description: Este es un ejemplo de paquete para Sileo.
 Name: Ivan pb
 Author: yoquese
+Section: Prueba
