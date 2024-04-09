@@ -7,3 +7,13 @@ Description: Este es un ejemplo de paquete para Sileo.
 Name: Ivan pb
 Author: yoquese
 Section: Prueba
+
+Package: NekoJB
+Version: 7.2
+Architecture: iphoneos-arm
+Maintainer: ivan Gabriel <soporte@quickm.net>
+Depiction: https://repo.quickm.net/debs/nekojb7.0.ipa
+Description: Este es un ejemplo de paquete para Sileo.
+Name: NekoJB
+Author: NekoJB
+Section: Jailbreak
