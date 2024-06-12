@@ -192,14 +192,43 @@ https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies;Series",HBO 2 Latin America
 http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Family",HBO Family Latin America
-http://170.254.18.106/HBO_FAMILY/index.m3u8
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaKz2hdvd0qQn2L5YyxN3NQAaJjh_sbRVofg&s" group-title="Funcional",Disney Channel
+https://jactvpro.xyz/hls/_R2_LZmyIlTuYlP0auj6JBNR_VJYZOCjRMFp9qaAE2qww6IbXG0QFTjHHzTOb_Wv0j_reND2eDqaKAEnsF0F1wUqx78-BV3nzPFmEWt8gt21GRRq1UNG9g-0qLAcyQqnLPeydzYJiHg4SlCHKFT9jQ
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghzA3lk6Ire08C7lOKLf_qfrrMavgfU6cTQ&s" group-title="Funcional",Disney Junior LATAM
+https://jactvpro.xyz/hls/_R2_LZmyIlTuYlP0auj6JBNR_VJYZOCjRMFp9qaAE2ru_f6izwRQhlQOST0DhAxfmXukYrB-ADfh1OhZB1CC1P3j9EbI2PUKht3-oCr8C99EcIrNhk9mhriJFALMZEsmZh3P-nOsoTCr4T8cIddOgQ
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Funcional",HBO Latin America
+https://jactvpro.xyz/hls/_R2_LZmyIlTuYlP0auj6JBNR_VJYZOCjRMFp9qaAE2q5Kr1BwLN3Lwj2DjXQC34pNCLE0vReHoYny3WPae74PRjRUkQ0bqr_WIN0p3mtyy_2P0yf3049e-iYM1zqbvzKtucCMb6zR5NdpZr04xEUkA
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXQ2ZgxbSjZSrjoAg3U5xIKsrqE83VgqydQ&s" group-title="Funcional",Cartoon NetWork
+https://jactvpro.xyz/hls/_R2_LZmyIlTuYlP0auj6JBNR_VJYZOCjRMFp9qaAE2q2Am9X3i-NRShCPH8dO_p7I1z-3qrAlWmbRUDStXv1dUBS8s-nNQevRsqoflMlHAz2qmfpFm7gd1iSTkQvIidBR72rtP79Zk2TK4qL3KB0_A
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #EXTINF:-1 tvg-id="HBOMundiCaribbean.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="Undefined",HBO Mundi
 http://170.254.18.106/HBO_MUNDI/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Undefined",HBO Plus Latin America
 http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Undefined",HBO Signature Latin America
-http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Undefined",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-id="HermanasMirabalTV.do" tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="Undefined",Hermanas Mirabal TV (720p) [Not 24/7]
@@ -386,7 +415,7 @@ https://vpss2003.streamprolive.com/hls/live.m3u8
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="Digital15" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Funcional",Digital 15 (1080p)
 https://playback.akamaized.net/streams/27456795_10633798_lsi0e4mq359glvhftv7_1/media/27456795_10633798_lsi0e4mq359glvhftv7_1@2756000p.m3u8?dw=14400&ts=1718204400&hdnts=exp=1718380270~acl=/streams/27456795_10633798_lsi0e4mq359glvhftv7_1/media*~hmac=312fe554394f3963e0e31c5bfe85839b2b108efa27db3fd34ee333d35d0984b9
-#EXTINF:-1 tvg-id="Telemicro5" tvg-logo="" group-title="Funcional",Telemicro (1080p)
+#EXTINF:-1 tvg-id="Telemicro5" tvg-logo="https://imagedelivery.net/NLRdvd00lh1oHv32qhXM9g/1611032b-75a5-4f11-d29c-da38dfd19f00/w=400,h=400,fit=crop" group-title="Funcional",Telemicro (1080p)
 https://repo.quickm.net/iptv/canal5.m3u8
 #EXTINF:-1 tvg-id="Telemilenio.do" tvg-logo="https://i.imgur.com/Y8ah4ym.png" group-title="Undefined",Telemilenio (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
