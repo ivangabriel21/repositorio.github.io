@@ -384,8 +384,10 @@ https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 https://vpss2003.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Undefined",Telemax (1080p)
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Funcional",Telemicro (1080p)
+#EXTINF:-1 tvg-id="Digital15" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Funcional",Digital 15 (1080p)
 https://playback.akamaized.net/streams/27456795_10633798_lsi0e4mq359glvhftv7_1/media/27456795_10633798_lsi0e4mq359glvhftv7_1@2756000p.m3u8?dw=14400&ts=1718204400&hdnts=exp=1718380270~acl=/streams/27456795_10633798_lsi0e4mq359glvhftv7_1/media*~hmac=312fe554394f3963e0e31c5bfe85839b2b108efa27db3fd34ee333d35d0984b9
+#EXTINF:-1 tvg-id="Telemicro5" tvg-logo="" group-title="Funcional",Telemicro (1080p)
+https://repo.quickm.net/iptv/canal5.m3u8
 #EXTINF:-1 tvg-id="Telemilenio.do" tvg-logo="https://i.imgur.com/Y8ah4ym.png" group-title="Undefined",Telemilenio (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord8.do" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Undefined",Telenord 8 (1080p) [Not 24/7]
