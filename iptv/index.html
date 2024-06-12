@@ -1,1 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reproductor de Video M3U8</title>
+</head>
+<body>
+  <video id="videoPlayer" controls autoplay width="640" height="360">
+    <source src="telecentro.m3u8" type="application/x-mpegURL">
+    Tu navegador no soporta la reproducción de videos M3U8.
+  </video>
 
+  <script>
+    // Obtenemos la referencia al elemento de video
+    var video = document.getElementById('videoPlayer');
+
+    // Agregamos un evento para manejar errores de reproducción
+    video.addEventListener('error', function() {
+      console.error('Ocurrió un error al cargar el video.');
+    });
+
+    // Agregamos un evento para manejar el fin del video
+    video.addEventListener('ended', function() {
+      console.log('El video ha terminado de reproducirse.');
+    });
+  </script>
+</body>
+</html>
