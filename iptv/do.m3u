@@ -99,8 +99,6 @@ https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
 http://181.78.24.67:8010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="Entertainment",COCO TV (720p)
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-#EXTINF:-1 tvg-id="ColorVision.do" tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="Undefined",Color Visión (720p) [Not 24/7]
-http://paz.sytes.net:32769/memfs/6aa68aa7-49e0-427c-be37-d60daecb939f.m3u8
 #EXTINF:-1 tvg-id="ConstanzaTV.do" tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="General",ConstanzaTV (720p)
 https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CotubanamaTV.do" tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="General",Cotubanama TV (1080p)
@@ -198,11 +196,10 @@ http://170.254.18.106/HBO2/index.m3u8
 #
 #
 #
+#Funcionales
 #
 #
 #
-#
-
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaKz2hdvd0qQn2L5YyxN3NQAaJjh_sbRVofg&s" group-title="Funcional",Disney Channel
 https://jactvpro.xyz/hls/_R2_LZmyIlTuYlP0auj6JBNR_VJYZOCjRMFp9qaAE2qww6IbXG0QFTjHHzTOb_Wv0j_reND2eDqaKAEnsF0F1wUqx78-BV3nzPFmEWt8gt21GRRq1UNG9g-0qLAcyQqnLPeydzYJiHg4SlCHKFT9jQ
 #EXTINF:-1 tvg-id="DisneyJunior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghzA3lk6Ire08C7lOKLf_qfrrMavgfU6cTQ&s" group-title="Funcional",Disney Junior LATAM
@@ -211,6 +208,12 @@ https://jactvpro.xyz/hls/_R2_LZmyIlTuYlP0auj6JBNR_VJYZOCjRMFp9qaAE2ru_f6izwRQhlQ
 https://jactvpro.xyz/hls/_R2_LZmyIlTuYlP0auj6JBNR_VJYZOCjRMFp9qaAE2q5Kr1BwLN3Lwj2DjXQC34pNCLE0vReHoYny3WPae74PRjRUkQ0bqr_WIN0p3mtyy_2P0yf3049e-iYM1zqbvzKtucCMb6zR5NdpZr04xEUkA
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXQ2ZgxbSjZSrjoAg3U5xIKsrqE83VgqydQ&s" group-title="Funcional",Cartoon NetWork
 https://jactvpro.xyz/hls/_R2_LZmyIlTuYlP0auj6JBNR_VJYZOCjRMFp9qaAE2q2Am9X3i-NRShCPH8dO_p7I1z-3qrAlWmbRUDStXv1dUBS8s-nNQevRsqoflMlHAz2qmfpFm7gd1iSTkQvIidBR72rtP79Zk2TK4qL3KB0_A
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel Central America
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1 tvg-id="ColorVision.do" tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="Funcional",Canal 9 (Color Vision)
+https://live-b.cf.dmcdn.net/sec2(Sdd3_ufUivKMVC13vHIxxlDTE32aGsyhs_iayP5z0GijyZrgdfQAleu4nNC-8DN7sHa4Rgp0d8e5rcx2n9kGMS10voV2jF_xf5lBLHsG-DY)/dm/3/x7gy059/d/live-1.m3u8
+#EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Funcional",CinelCanal
+https://jactvpro.xyz/hls/_R2_LZmyIlTuYlP0auj6JBNR_VJYZOCjRMFp9qaAE2qoHxOK8Rt73gJfJCT4d1vwx-0I2UtrPNoABV__0NR3kv0HIV3qkOl4-U4f0EvbSETc1DEHPx79fWzzCU2TYKn1R1Z-BZVm7xjY5XH4oICvsw
 #
 #
 #
