@@ -218,6 +218,8 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QCINECLTV/dash/manifest.mpd
 https://repo.quickm.net/iptv/discovery.m3u8
 #EXTINF:-1 tvg-id="Teleantillas11" tvg-logo="https://canalesdominicanos.live/template/images/radios/telesistema_canal_11.jpg" group-title="Funcional",Telesistema 11
 https://live-b.cf.dmcdn.net/sec2(TpupZTA5naCXuSP9xvW8UPp_uQQM4KO5zp8i6MvaSEzEO88_uLbvSWq1TiGp-gRM-lX5cTjJT1x7bUm2Bol0ZANIo1eqg35stq1ZUPLQK5A)/dm/3/x80ac48/d/live-1.m3u8
+#EXTINF:-1 tvg-id="Canal2" tvg-logo="https://canalesdominicanos.live/template/images/radios/telesistema_canal_11.jpg" group-title="Funcional",Teleantillas 2
+https://live-b.cf.dmcdn.net/sec2(TZvm9ysme7ggaDZQdYJ1QSNPqYdx3Ej2rjbn36n__zlNLl36WZpIT5EGObPfy6lqgCGIEJXz1QVzkg7af-DI_r1hQ6Gn5CWcxe6tagFF4DY)/dm/3/x8mwmvs/s/live-1.m3u8
 #
 #	
 #
@@ -421,9 +423,9 @@ https://vpss2003.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Undefined",Telemax (1080p)
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="Digital15" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Funcional",Digital 15 (1080p)
-https://playback.akamaized.net/streams/27456795_10633798_lsiomdsuz5ijbcd54qt_1/master.m3u8?dw=14400&hdnts=exp=1718300259~acl=/streams/27456795_10633798_lsiomdsuz5ijbcd54qt_1/master.m3u8*~hmac=04ff555d1e237327ee1d81266195c6aaebfb9bc3ee42f56d6cd3d82dbf70289d
+https://player-api.new.livestream.com/accounts/27456795/events/10633798/broadcasts/246489024.secure.m3u8?dw=14400&hdnea=st%3D1718305451~exp%3D1718307251~acl%3D%2Fi%2F27456795_10633798_lsiomdsuz5ijbcd54qt_1%40408162%2F%2A~hmac%3Da12806ac44999132feec6e5966480652ddd37b100cf7a2751ffdc29cb2d73a50&token=666b43d7_a9eed89aff0e5a064a0249ddd863033e103296f6
 #EXTINF:-1 tvg-id="Telemicro5" tvg-logo="https://imagedelivery.net/NLRdvd00lh1oHv32qhXM9g/1611032b-75a5-4f11-d29c-da38dfd19f00/w=400,h=400,fit=crop" group-title="Funcional",Telemicro 5(1080p)
-https://playback.akamaized.net/streams/27456795_10633780_lsiwsfp9w5fus5jizi0_1/master.m3u8?dw=14400&hdnts=exp=1718300180~acl=/streams/27456795_10633780_lsiwsfp9w5fus5jizi0_1/master.m3u8*~hmac=a3b8190a854abd0cb0c3a4d5ffdba70dee43aa90d742d5189c3976e14cfb39a8
+https://player-api.new.livestream.com/accounts/27456795/events/10633780/broadcasts/246491180.secure.m3u8?dw=14400&hdnea=st%3D1718305531~exp%3D1718307331~acl%3D%2Fi%2F27456795_10633780_lsiwsfp9w5fus5jizi0_1%4057416%2F%2A~hmac%3Dcff43623fff706957bcdb6e4b5e86657898d05be1b8e263fe38960232893bfa2&token=666b4427_2fd84d87aa182138f73dbda30299586bc9d87898
 #EXTINF:-1 tvg-id="Telemilenio.do" tvg-logo="https://i.imgur.com/Y8ah4ym.png" group-title="Undefined",Telemilenio (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord8.do" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Undefined",Telenord 8 (1080p) [Not 24/7]
