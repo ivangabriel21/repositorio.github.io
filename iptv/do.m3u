@@ -199,7 +199,7 @@ http://170.254.18.106/HBO2/index.m3u8
 #
 #
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Funcional",Cinemax Latin America
-http://170.254.18.106/CINEMAX/index.m3u8
+https://repo.quickm.net/iptv/cinemax.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaKz2hdvd0qQn2L5YyxN3NQAaJjh_sbRVofg&s" group-title="Funcional",Disney Channel
 https://jactvpro.xyz/hls/_R2_LZmyIlTuYlP0auj6JBNR_VJYZOCjRMFp9qaAE2qww6IbXG0QFTjHHzTOb_Wv0j_reND2eDqaKAEnsF0F1wUqx78-BV3nzPFmEWt8gt21GRRq1UNG9g-0qLAcyQqnLPeydzYJiHg4SlCHKFT9jQ
 #EXTINF:-1 tvg-id="DisneyJunior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghzA3lk6Ire08C7lOKLf_qfrrMavgfU6cTQ&s" group-title="Funcional",Disney Junior LATAM
