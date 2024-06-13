@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1325703
+http://103.197.59.108:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying
