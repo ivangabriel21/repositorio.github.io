@@ -201,7 +201,7 @@ http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="Funcional",Cinemax Latin America
 https://repo.quickm.net/iptv/cinemax.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaKz2hdvd0qQn2L5YyxN3NQAaJjh_sbRVofg&s" group-title="Funcional",Disney Channel
-https://jactvpro.xyz/hls/_R2_LZmyIlTuYlP0auj6JBNR_VJYZOCjRMFp9qaAE2qww6IbXG0QFTjHHzTOb_Wv0j_reND2eDqaKAEnsF0F1wUqx78-BV3nzPFmEWt8gt21GRRq1UNG9g-0qLAcyQqnLPeydzYJiHg4SlCHKFT9jQ
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10298.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghzA3lk6Ire08C7lOKLf_qfrrMavgfU6cTQ&s" group-title="Funcional",Disney Junior LATAM
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10297.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Funcional",HBO Latin America
@@ -215,17 +215,13 @@ https://live-b.cf.dmcdn.net/sec2(Sdd3_ufUivKMVC13vHIxxlDTE32aGsyhs_iayP5z0GijyZr
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Funcional",CinelCanal
 https://1279247418.rsc.cdn77.org/bpk-tv/QCINECLTV/dash/manifest.mpd
 #EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIkQwOqI4hUx58uk1r3VzEMM0CYr-_NwuLQ&s" group-title="Funcional",Discovery Kids
-https://repo.quickm.net/iptv/discovery.m3u8
+https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10301.m3u8
 #EXTINF:-1 tvg-id="Teleantillas11" tvg-logo="https://canalesdominicanos.live/template/images/radios/telesistema_canal_11.jpg" group-title="Funcional",Telesistema 11
 https://live-b.cf.dmcdn.net/sec2(TpupZTA5naCXuSP9xvW8UPp_uQQM4KO5zp8i6MvaSEzEO88_uLbvSWq1TiGp-gRM-lX5cTjJT1x7bUm2Bol0ZANIo1eqg35stq1ZUPLQK5A)/dm/3/x80ac48/d/live-1.m3u8
 #EXTINF:-1 tvg-id="Canal2" tvg-logo="https://canalesdominicanos.live/template/images/radios/telesistema_canal_11.jpg" group-title="Funcional",Teleantillas 2
 https://live-b.cf.dmcdn.net/sec2(TZvm9ysme7ggaDZQdYJ1QSNPqYdx3Ej2rjbn36n__zlNLl36WZpIT5EGObPfy6lqgCGIEJXz1QVzkg7af-DI_r1hQ6Gn5CWcxe6tagFF4DY)/dm/3/x8mwmvs/s/live-1.m3u8
-#EXTINF:-1 tvg-id="Space" tvg-logo="" group-title="Funcional",Space
-https://jactvpro.xyz/auth/ltnxiM6ODiijn8THrHWe1UMr-sXTccX7Pi27BVa6WBbxWN_aApvGwjbWzBeUMYSs5920UCzPJBDsXOBFPqAI35C30o9vXlsgbvXsyCYBBAXGPTgstLNDd8-7kN50FqJSjTJ7Suz5XcNkPOMWYUu2Igl55a_mJLGKymvIQZ_xYWGWujJ8RZhYLoKsHVRnTUKFQVGl6QOODUbW82AiE8B-zcjV-JnJrry2Z8BFS0UIcgY_sztJEw6ONVsmZd_zqxpkr67gZ8zfJrj57A3Db4UyWX2sCBSG4Jkd82RqiCFAGQu7nZyU42PmdFNZ0kIW6_2TiAkIzHFsY6vsHj0AIzVcJqsdUV1cnNwWoefsETNZlWJi8R28n8YW6UjFIZoegUUlfT3LTUV7f-IPGU-Rq1SBwJCTgtqjDRf6c9mU1PPj1qmtPAKBgRQibywXCkVzT1dkItVy7DiJ2LVvCfRBBNijFKCB6SMT1FmraKyOip_LZEyFKDYYFy7eErx18I6-sQv7lO87pRO0loS5LwAK-PArt9U_tSRlm8mkrX769OlFjoHlW7xLRKvjRGkWWPVNe7zol0U8jlw71OKFB0tOIzwjoCRFsWPewIy1FD9lFqfUrg_IQLovaXs_e1-xGU5YYTN2xP52gG0BI759CXE7q0CqGg
 #EXTINF:-1 tvg-id="Space2" tvg-logo="" group-title="Funcional",Space LATAM
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10269.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="" group-title="Funcional",Disney Channel
-https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10298.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="" group-title="Funcional",TNT
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10272.m3u8
 #
