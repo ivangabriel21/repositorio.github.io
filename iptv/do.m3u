@@ -232,7 +232,8 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10284.m3u8
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10300.m3u8
 #EXTINF:-1 tvg-id="TeleMundo" tvg-logo="" group-title="Funcional",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-#
+#EXTINF:-1 tvg-id="Simpson" tvg-logo="" group-title="Funcional",Los Simpson
+https://6.tcp.ngrok.io:15844/stream.m3u8
 #	
 #
 #
