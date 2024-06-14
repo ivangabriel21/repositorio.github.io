@@ -220,14 +220,18 @@ https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10301.m3u8
 https://live-b.cf.dmcdn.net/sec2(TpupZTA5naCXuSP9xvW8UPp_uQQM4KO5zp8i6MvaSEzEO88_uLbvSWq1TiGp-gRM-lX5cTjJT1x7bUm2Bol0ZANIo1eqg35stq1ZUPLQK5A)/dm/3/x80ac48/d/live-1.m3u8
 #EXTINF:-1 tvg-id="Canal2" tvg-logo="https://canalesdominicanos.live/template/images/radios/telesistema_canal_11.jpg" group-title="Funcional",Teleantillas 2
 https://live-b.cf.dmcdn.net/sec2(TZvm9ysme7ggaDZQdYJ1QSNPqYdx3Ej2rjbn36n__zlNLl36WZpIT5EGObPfy6lqgCGIEJXz1QVzkg7af-DI_r1hQ6Gn5CWcxe6tagFF4DY)/dm/3/x8mwmvs/s/live-1.m3u8
-#EXTINF:-1 tvg-id="Space2" tvg-logo="" group-title="Funcional",Space LATAM
+#EXTINF:-1 tvg-id="Space2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8p6gpDwIyxF-4-hJ87KdovpcS8vQZ3DoMkw&s" group-title="Funcional",Space LATAM
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10269.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-logo="" group-title="Funcional",TNT
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/0/03/TNT_Logo.png/revision/latest/smart/width/250/height/250?cb=20210826155428&path-prefix=es" group-title="Funcional",TNT
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10272.m3u8
-#EXTINF:-1 tvg-id="NickJr" tvg-logo="" group-title="Funcional",Nick Junior
+#EXTINF:-1 tvg-id="NickJr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_zExNlTkMW6WTN8JKJhPkBUPArIdoqxC4A&s" group-title="Funcional",Nick Junior
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10299.m3u8
-#EXTINF:-1 tvg-id="WB" tvg-logo="" group-title="Funcional",Warnes Broder
+#EXTINF:-1 tvg-id="WarnerBros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Warner_Bros._Pictures_2023_%28Alt%29.svg" group-title="Funcional",Warner Bros
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10284.m3u8
+#EXTINF:-1 tvg-id="ToonCat" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="Funcional",ToonCat
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10300.m3u8
+#EXTINF:-1 tvg-id="TeleMundo" tvg-logo="" group-title="Funcional",Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #
 #	
 #
