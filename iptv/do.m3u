@@ -210,8 +210,10 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10279.m3u8
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10295.m3u8
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel Central America
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10273.m3u8
+#EXTINF:-1 tvg-id="Antena7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Antena_Latina_2016.webp" group-title="Funcional",ANTENA 7
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="ColorVision.do" tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="Funcional",Canal 9 (Color Vision)
-https://live-b.cf.dmcdn.net/sec2(Sdd3_ufUivKMVC13vHIxxlDTE32aGsyhs_iayP5z0GijyZrgdfQAleu4nNC-8DN7sHa4Rgp0d8e5rcx2n9kGMS10voV2jF_xf5lBLHsG-DY)/dm/3/x7gy059/d/live-1.m3u8
+https://live-c.cf.dmcdn.net/sec2(tiH2NTesgMvnoGmVttCFr1uSsQ3EY22K1SBxzsi_ptg2YovM2QXhQBoOmX1NyXaFJK7-bNFvI6Z7W-yhpHf5e88mif7hWiqbS60JRyA32Vg)/dm/3/x7gy059/d/live-2.m3u8
 #EXTINF:-1 tvg-id="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinecanal-oficial.png" group-title="Funcional",CinelCanal
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10274.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYIkQwOqI4hUx58uk1r3VzEMM0CYr-_NwuLQ&s" group-title="Funcional",Discovery Kids
