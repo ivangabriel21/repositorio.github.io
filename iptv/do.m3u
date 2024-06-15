@@ -544,7 +544,7 @@ https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 #EXTINF:-1 tvg-id="Telecanal28.do" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="Undefined",Telecanal 28 (360p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecentro13" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="Funcional",Telecentro (480p)
-https://playback.akamaized.net/streams/27456795_10501048_lsi5bgyga7qtkjf6gf3_1/media/27456795_10501048_lsi5bgyga7qtkjf6gf3_1@2756000p.m3u8?dw=14400&ts=1718373600&hdnts=exp=1718549920~acl=/streams/27456795_10501048_lsi5bgyga7qtkjf6gf3_1/media*~hmac=7da343907c24cc5844b75d8cf1b63b16947e3eb509335cc8e28d7c932964cd66
+https://playback.akamaized.net/streams/27456795_10501048_lsicoi29qgsnqief4wf_1/master.m3u8?dw=14400&hdnts=exp=1718480938~acl=/streams/27456795_10501048_lsicoi29qgsnqief4wf_1/master.m3u8*~hmac=5b33638005cddc4eece13c3ed193abfc7c001b7ea2ad6a1f68f70029dae40a78
 #EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="Undefined",TeleCibao (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecontacto.do" tvg-logo="https://i.ytimg.com/vi/cdsVldEE6eg/hqdefault.jpg" group-title="Undefined",Telecontacto (720p)
@@ -562,9 +562,9 @@ https://vpss2003.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Undefined",Telemax (1080p)
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="Digital15" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Funcional",Digital 15 (1080p)
-https://playback.akamaized.net/streams/27456795_10633798_lsieapk6enhq0y9d75v_1/master.m3u8?dw=14400&hdnts=exp=1718319030~acl=/streams/27456795_10633798_lsieapk6enhq0y9d75v_1/master.m3u8*~hmac=aed8142c45b6c20e95b430f2dfcf27ec5f2da0b2dc5a89fbb541e5a62e87c825
+https://playback.akamaized.net/streams/27456795_10633798_lsirk14jpd1fot5qe9d_1/master.m3u8?dw=14400&hdnts=exp=1718481018~acl=/streams/27456795_10633798_lsirk14jpd1fot5qe9d_1/master.m3u8*~hmac=6083b8bcfa1139723bf09b679073a8b07640bfed6eae631540325c504865232e
 #EXTINF:-1 tvg-id="Telemicro5" tvg-logo="https://imagedelivery.net/NLRdvd00lh1oHv32qhXM9g/1611032b-75a5-4f11-d29c-da38dfd19f00/w=400,h=400,fit=crop" group-title="Funcional",Telemicro 5(1080p)
-https://repo.quickm.net/iptv/canal5.m3u8
+https://playback.akamaized.net/streams/27456795_10633780_lsihnplo4s8mu9pgyri_1/master.m3u8?dw=14400&hdnts=exp=1718481084~acl=/streams/27456795_10633780_lsihnplo4s8mu9pgyri_1/master.m3u8*~hmac=4bbd56000e8b09d3699cf2ae99b4cd089b85faec47e04b85fff606e5e55184eb
 #EXTINF:-1 tvg-id="Telemilenio.do" tvg-logo="https://i.imgur.com/Y8ah4ym.png" group-title="Undefined",Telemilenio (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord8.do" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Undefined",Telenord 8 (1080p) [Not 24/7]
