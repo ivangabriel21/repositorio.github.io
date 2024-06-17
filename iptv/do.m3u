@@ -546,7 +546,7 @@ https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 #EXTINF:-1 tvg-id="Telecanal28.do" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="Undefined",Telecanal 28 (360p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecentro13" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="Funcional",Telecentro (480p)
-https://playback.akamaized.net/streams/27456795_10501048_lsi2otvq2jmcpqp8jdu_1/master.m3u8?dw=80&hdnts=exp=1718488845~acl=/streams/27456795_10501048_lsi2otvq2jmcpqp8jdu_1/master.m3u8*~hmac=e83297c24f8a2929f720b0e1489b8d4c01619dc2111cd9764cbe1b3dda823f44
+https://playback.akamaized.net/streams/27456795_10501048_lsincnql9hh7v0hnssq_1/master.m3u8?dw=14400&hdnts=exp=1718636420~acl=/streams/27456795_10501048_lsincnql9hh7v0hnssq_1/master.m3u8*~hmac=a3da1359384c693bcc1e020d09692b3cd79e23413702442f7d480951d2031c64
 #EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="Undefined",TeleCibao (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecontacto.do" tvg-logo="https://i.ytimg.com/vi/cdsVldEE6eg/hqdefault.jpg" group-title="Undefined",Telecontacto (720p)
