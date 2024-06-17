@@ -566,7 +566,11 @@ https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="Digital15" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Funcional",Digital 15 (1080p)
 https://playback.akamaized.net/streams/27456795_10633798_lsios54vypsrmhrllyb_1/master.m3u8?dw=14400&hdnts=exp=1718655172~acl=/streams/27456795_10633798_lsios54vypsrmhrllyb_1/master.m3u8*~hmac=8bf13b187a5fb9bea49f8946bf89565787d1290b1e2c21ab0c9a217e08556f4d
 #EXTINF:-1 tvg-id="Telemicro5" tvg-logo="https://imagedelivery.net/NLRdvd00lh1oHv32qhXM9g/1611032b-75a5-4f11-d29c-da38dfd19f00/w=400,h=400,fit=crop" group-title="Funcional",Telemicro 5(1080p)
-https://playback.akamaized.net/streams/27456795_10633780_lsinsznjlhgjuog2mex_1/master.m3u8?dw=14400&hdnts=exp=1718655225~acl=/streams/27456795_10633780_lsinsznjlhgjuog2mex_1/master.m3u8*~hmac=78eb443bd2965e79960ce1fc58fa46735a73631c717cd2a397960996ef9ca27b
+https://playback.akamaized.net/streams/27456795_10501048_lsi4vxl15l1pzzduyam_1/master.m3u8?dw=14400&hdnts=exp=1718657422~acl=/streams/27456795_10501048_lsi4vxl15l1pzzduyam_1/master.m3u8*~hmac=714be033e9a7b7c37ee333c82973ba06f366d6d387f977f14fc17197f6f40cd3
+#EXTINF:-1 tvg-id="Telemicro2" tvg-logo="" group-title="Funcional",Telemicro 2
+https://player-api.new.livestream.com/accounts/27456795/events/10501048/broadcasts/246671446.secure.m3u8?dw=14400&hdnea=st%3D1718657112~exp%3D1718658912~acl%3D%2Fi%2F27456795_10501048_lsi4vxl15l1pzzduyam_1%40305637%2F%2A~hmac%3D1104510d39bb77542521c410676eacc79433cac2a55335c13b1e2b8053fb8b64&token=6670a184_7975ae00137520ee060fa364544fda766f80d691
+#EXTINF:-1 tvg-id="Telemicro3" tvg-logo="" group-title="Funcional",Telemicro 3
+https://playback.akamaized.net/streams/27456795_10501048_lsi4vxl15l1pzzduyam_1/media/27456795_10501048_lsi4vxl15l1pzzduyam_1@2756000p.m3u8?dw=14400&ts=1718654400&hdnts=exp=1718829922~acl=/streams/27456795_10501048_lsi4vxl15l1pzzduyam_1/media*~hmac=11abced9d923651b5b58ba781b76744e0b14571ba168cc6485a885d9a3515d27
 #EXTINF:-1 tvg-id="Telemilenio.do" tvg-logo="https://i.imgur.com/Y8ah4ym.png" group-title="Undefined",Telemilenio (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord8.do" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Undefined",Telenord 8 (1080p) [Not 24/7]
