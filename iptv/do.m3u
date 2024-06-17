@@ -238,8 +238,8 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10300.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:-1 tvg-id="BobEsponja" tvg-logo="https://media.revistagq.com/photos/5ca5f6a77a3aec0df5496c59/4:3/w_1960,h_1470,c_limit/bob_esponja_9564.png" group-title="Funcional",BOB ESPONJA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://media.revistagq.com/photos/5ca5f6a77a3aec0df5496c59/4:3/w_1960,h_1470,c_limit/bob_esponja_9564.png" group-title="Funcional",Peliculas
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 tvg-id="Peliculas" tvg-logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a_400x400.jpg" group-title="Funcional",Peliculas
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&unknown_app_domain=%7BAPP_DOMAIN%7D&unknown_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=unknown&profilesFromStream=true
 #EXTINF:-1 tvg-id="Novelas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhycVZ6-ezg4F70KrFSc-jWhi5ggR-puIfA&s" group-title="Funcional",NOVELAS
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #	
@@ -266,110 +266,6 @@ https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/Cs0FvA3kiDIb5ST8DDX7sW3TfjJ
 #
 #
 #
-#
-#EXTINF:-1 group-title="DisneyChannel",Las aventuras de Ladybug - La Marionetista
-https://www.youtube.com/watch?v=PPk3oeFszdo
-#EXTINF:-1 group-title="DisneyChannel",Liv y Maddie - El baile de fin de curso Rooney
-https://www.youtube.com/watch?v=M152nuxJFgE
-#EXTINF:-1 group-title="DisneyChannel",Sing along: "Bajo del mar" de La Sirenita
-https://www.youtube.com/watch?v=PmxDgZVenJ8
-#EXTINF:-1 group-title="DisneyChannel",Lo mejor de Violetta
-https://www.youtube.com/watch?v=sLwPBz27PWI
-#EXTINF:-1 group-title="DisneyChannel",Las aventuras de Ladybug: Nuevos episodios en octubre
-https://www.youtube.com/watch?v=1WVvqMDMn5I
-#EXTINF:-1 group-title="DisneyChannel",Los Descendientes: Wicked World - Ep. 1
-https://www.youtube.com/watch?v=Vj3kFcLAijE
-#EXTINF:-1 group-title="DisneyChannel",Violetta: Videoclip - 'Código Amistad'
-https://www.youtube.com/watch?v=Y1-In8uzj_8
-#EXTINF:-1 group-title="DisneyChannel",TOP 60 CANCIONES DISNEY(ESPAÑOL) / DISNEY SONGS
-https://www.youtube.com/watch?v=PV1tF0iP1Vc
-#EXTINF:-1 group-title="DisneyChannel",Disney Latinoamérica
-https://www.youtube.com/channel/UCq3zaHCaZtb3TtNwwz0PK2w
-#EXTINF:-1 group-title="DisneyChannel",Disney España
-https://www.youtube.com/user/disneychannelES/videos
-#EXTINF:-1 group-title="DisneyChannel",Elena de Avalor: Videoclip - 'Mi tiempo ya llegó'
-https://www.youtube.com/watch?v=bGy-K1XB_wk
-#EXTINF:-1 group-title="DisneyChannel",The Owl House: Episodio 1 - "Una bruja en entrenamiento"
-https://www.youtube.com/watch?v=2-hoPESvA98
-#EXTINF:-1 group-title="DisneyChannel",Phineas y Ferb: Candace contra el Universo
-https://www.youtube.com/watch?v=Kr9zHIVGTjY
-#EXTINF:-1 group-title="DisneyChannel",Amphibia: Episodio 1 - "Bienvenidos a Amphibia"
-https://www.youtube.com/watch?v=yAukdNmw5JE
-#EXTINF:-1 group-title="DisneyChannel",Gravity Falls: Episodio 1 - "Turismo Triste"
-https://www.youtube.com/watch?v=2Ts_Kk_Mj_U
-#EXTINF:-1 group-title="DisneyChannel",Star contra las Fuerzas del Mal: Episodio 1 - "La Varita"
-https://www.youtube.com/watch?v=1IxjJvMFUAs
-#EXTINF:-1 group-title="DisneyChannel",Los Hechiceros de Waverly Place: Episodio 1 - "Hechizos Básicos"
-https://www.youtube.com/watch?v=a5YZx3uAsWo
-#EXTINF:-1 group-title="DisneyChannel",Hannah Montana: Episodio 1 - "Lilly, ¿Tú crees?"
-https://www.youtube.com/watch?v=F8ZyyRop1aY
-#EXTINF:-1 group-title="DisneyChannel",Kim Possible: Episodio 1 - "Nace una villana"
-https://www.youtube.com/watch?v=Po9Mni8lKec
-#EXTINF:-1 group-title="DisneyChannel",DuckTales: Episodio 1 - "Patoaventuras"
-https://www.youtube.com/watch?v=Qqtd5jzJ6Sg
-#EXTINF:-1 group-title="DisneyChannel",Tangled: La Serie - "La Gran Aventura"
-https://www.youtube.com/watch?v=K1kRoXmWbeA
-#EXTINF:-1 group-title="DisneyChannel",PJ Masks: Episodio 1 - "La Aventura Comienza"
-https://www.youtube.com/watch?v=A9nldg1kX4U
-#EXTINF:-1 group-title="DisneyChannel",Mira, Royal Detective: Episodio 1 - "El Caso de la Llave Perdida"
-https://www.youtube.com/watch?v=7m4J_m4K8E4
-#EXTINF:-1 group-title="DisneyChannel",Big Hero 6: La Serie - "Hiro y Baymax"
-https://www.youtube.com/watch?v=HgDtM2Kv4dU
-#EXTINF:-1 group-title="DisneyChannel",Club Houdini: Episodio 1 - "El Secreto del Mago"
-https://www.youtube.com/watch?v=9HfPvNfLgNc
-#EXTINF:-1 group-title="DisneyChannel",High School Musical: El Musical - La Serie - "Episodio Piloto"
-https://www.youtube.com/watch?v=X7Sv3g1dWqk
-#EXTINF:-1 group-title="DisneyChannel",Elena de Avalor: "El Secreto de Avalor"
-https://www.youtube.com/watch?v=SmNXzx7c8vY
-#EXTINF:-1 group-title="DisneyChannel",La Casa de Mickey Mouse: "Mickey y las Aves del Paraíso"
-https://www.youtube.com/watch?v=XZ8E4iQ5g-0
-#EXTINF:-1 group-title="DisneyChannel",Zombies: Película Completa
-https://www.youtube.com/watch?v=CGYSDvW6G3k
-#EXTINF:-1 group-title="DisneyChannel",Kim Possible: La Película - "Atrapados en el Tiempo"
-https://www.youtube.com/watch?v=23hS3ME0oXU
-#EXTINF:-1 group-title="DisneyChannel",Jessie: Episodio 1 - "La Niñera de Nueva York"
-https://www.youtube.com/watch?v=kNf4JkAQQ-E
-#EXTINF:-1 group-title="DisneyChannel",Austin y Ally: Episodio 1 - "El Gran Sueño"
-https://www.youtube.com/watch?v=8vjCEd4MBU4
-#EXTINF:-1 group-title="DisneyChannel",Bia: Episodio 1 - "El Comienzo de Todo"
-https://www.youtube.com/watch?v=McHcZjQyOEI
-#EXTINF:-1 group-title="DisneyChannel",K.C. Undercover: Episodio 1 - "La Agente en Acción"
-https://www.youtube.com/watch?v=9KNNv45Mys4
-#EXTINF:-1 group-title="DisneyChannel",Lab Rats: Episodio 1 - "La Cueva Secreta"
-https://www.youtube.com/watch?v=hw59lRZaVoU
-#EXTINF:-1 group-title="DisneyChannel",Los Guerreros Wasabi: Episodio 1 - "El Nuevo Guerrero"
-https://www.youtube.com/watch?v=fE0QPSJhsbI
-#EXTINF:-1 group-title="DisneyChannel",Zack y Cody: Episodio 1 - "Bienvenidos al Tipton"
-https://www.youtube.com/watch?v=sDFGg4kFphQ
-#EXTINF:-1 group-title="DisneyChannel",Jonas: Episodio 1 - "La Nueva Vida"
-https://www.youtube.com/watch?v=jNbZGUEGh90
-#EXTINF:-1 group-title="DisneyChannel",Los Sustitutos: Episodio 1 - "La Familia Ideal"
-https://www.youtube.com/watch?v=UpRVh8qB8Mo
-#EXTINF:-1 group-title="DisneyChannel",Good Luck Charlie: Episodio 1 - "Un Nuevo Miembro"
-https://www.youtube.com/watch?v=dB1jR0Vh3lg
-#EXTINF:-1 group-title="DisneyChannel",Sonny with a Chance: Episodio 1 - "Una Nueva Estrella"
-https://www.youtube.com/watch?v=qA5b-QcSvSw
-#EXTINF:-1 group-title="DisneyChannel",Lilo y Stitch: Episodio 1 - "El Experimento 626"
-https://www.youtube.com/watch?v=8fYX9FxThEg
-#EXTINF:-1 group-title="DisneyChannel",La Princesa Sofía: "La Leyenda de Vor"
-https://www.youtube.com/watch?v=ZQQ6P_zJnNw
-#EXTINF:-1 group-title="DisneyChannel",Ant Farm: Episodio 1 - "El Nuevo Programa"
-https://www.youtube.com/watch?v=8O5yb6pE0mA
-#EXTINF:-1 group-title="DisneyChannel",Andi Mack: Episodio 1 - "El Gran Secreto"
-https://www.youtube.com/watch?v=4Fj0UV3HGPE
-#EXTINF:-1 group-title="DisneyChannel",Raven's Home: Episodio 1 - "La Vida de Madre"
-https://www.youtube.com/watch?v=IkN9yowW6_g
-#EXTINF:-1 group-title="DisneyChannel",Stuck in the Middle: Episodio 1 - "La Vida en Medio"
-https://www.youtube.com/watch?v=3j
-#
-#
-#
-#
-#
-#
-#
-#
-##
 #
 #
 #
