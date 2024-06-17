@@ -547,6 +547,8 @@ https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecentro13" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="Funcional",Telecentro (480p)
 https://playback.akamaized.net/streams/27456795_10501048_lsi4vxl15l1pzzduyam_1/master.m3u8?dw=14400&hdnts=exp=1718655002~acl=/streams/27456795_10501048_lsi4vxl15l1pzzduyam_1/master.m3u8*~hmac=455adb77d8cd21369726c68eb94dc53a62b558debe7d9aa0017c7640ec4635ba
+#EXTINF:-1 tvg-id="Telecentro132" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="Funcional",Telecentro 2
+https://ivandns.000webhostapp.com/master.m3u8
 #EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="Undefined",TeleCibao (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecontacto.do" tvg-logo="https://i.ytimg.com/vi/cdsVldEE6eg/hqdefault.jpg" group-title="Undefined",Telecontacto (720p)
