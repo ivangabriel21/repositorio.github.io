@@ -1,29 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Reproductor de Video M3U8</title>
+    <meta charset="UTF-8">
+    <title>IPTV</title>
+    <script>
+        function checkLogin() {
+            const cookies = document.cookie.split(';');
+            let loggedIn = false;
+            for (let i = 0; i < cookies.length; i++) {
+                const cookie = cookies[i].trim();
+                if (cookie === 'loggedIn=true') {
+                    loggedIn = true;
+                    break;
+                }
+            }
+            if (!loggedIn) {
+                window.location.href = "/login.html";
+            }
+        }
+    </script>
 </head>
-<body>
-  <video id="videoPlayer" controls autoplay width="640" height="360">
-    <source src="https://repo.quickm.net/iptv/telemicro.m3u8" type="application/x-mpegURL">
-    Tu navegador no soporta la reproducción de videos M3U8.
-  </video>
-
-  <script>
-    // Obtenemos la referencia al elemento de video
-    var video = document.getElementById('videoPlayer');
-
-    // Agregamos un evento para manejar errores de reproducción
-    video.addEventListener('error', function() {
-      console.error('Ocurrió un error al cargar el video.');
-    });
-
-    // Agregamos un evento para manejar el fin del video
-    video.addEventListener('ended', function() {
-      console.log('El video ha terminado de reproducirse.');
-    });
-  </script>
+<body onload="checkLogin()">
+    <h2>Bienvenido a IPTV</h2>
+    <p>Contenido exclusivo para usuarios registrados.</p>
 </body>
 </html>
