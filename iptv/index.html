@@ -1,27 +1,106 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IPTV</title>
-    <script>
-        function checkLogin() {
-            const cookies = document.cookie.split(';');
-            let loggedIn = false;
-            for (let i = 0; i < cookies.length; i++) {
-                const cookie = cookies[i].trim();
-                if (cookie === 'loggedIn=true') {
-                    loggedIn = true;
-                    break;
-                }
-            }
-            if (!loggedIn) {
-                window.location.href = "/repositorio.github.io/login.html";
-            }
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet">
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background: linear-gradient(to right, #2c3e50, #4ca1af);
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
         }
-    </script>
+        .container {
+            background: rgba(255, 255, 255, 0.9);
+            color: #333;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            width: 100%;
+        }
+        .title {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .video-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .video-list li {
+            margin-bottom: 10px;
+        }
+        .btn {
+            background: #4ca1af;
+            color: white;
+            border: none;
+            padding: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background 0.3s;
+        }
+        .btn:hover {
+            background: #2c3e50;
+        }
+        .video-container {
+            display: none;
+            margin-top: 20px;
+        }
+        .video-js {
+            width: 100%;
+            height: 400px;
+        }
+    </style>
 </head>
-<body onload="checkLogin()">
-    <h2>Bienvenido a IPTV</h2>
-    <p>Contenido exclusivo para usuarios registrados.</p>
+<body>
+    <div class="container">
+        <h2 class="title">Bienvenido a IPTV</h2>
+        <p>Contenido exclusivo para usuarios registrados.</p>
+        <ul class="video-list" id="video-list"></ul>
+        <div class="video-container" id="video-container">
+            <video id="video-player" class="video-js vjs-default-skin" controls></video>
+        </div>
+    </div>
+    <script src="https://vjs.zencdn.net/7.14.3/video.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Lista de archivos m3u8 (simulando la lectura de archivos en el directorio)
+            const m3u8Files = [
+                'example1.m3u8',
+                'example2.m3u8'
+            ];
+
+            const videoList = document.getElementById('video-list');
+            const videoContainer = document.getElementById('video-container');
+            const videoPlayer = videojs('video-player');
+
+            m3u8Files.forEach(file => {
+                const li = document.createElement('li');
+                const btn = document.createElement('button');
+                btn.classList.add('btn');
+                btn.textContent = `Reproducir ${file}`;
+                btn.onclick = () => {
+                    videoContainer.style.display = 'block';
+                    videoPlayer.src({
+                        src: file,
+                        type: 'application/x-mpegURL'
+                    });
+                    videoPlayer.play();
+                };
+                li.appendChild(btn);
+                videoList.appendChild(li);
+            });
+        });
+    </script>
 </body>
 </html>
