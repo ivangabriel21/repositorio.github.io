@@ -564,7 +564,9 @@ https://vpss2003.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Undefined",Telemax (1080p)
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="Digital15" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Funcional",Digital 15 (1080p)
-https://playback.akamaized.net/streams/27456795_10633798_lsios54vypsrmhrllyb_1/master.m3u8?dw=14400&hdnts=exp=1718655172~acl=/streams/27456795_10633798_lsios54vypsrmhrllyb_1/master.m3u8*~hmac=8bf13b187a5fb9bea49f8946bf89565787d1290b1e2c21ab0c9a217e08556f4d
+https://player-api.new.livestream.com/accounts/27456795/events/10633798/broadcasts/246645889.secure.m3u8?dw=14400&hdnea=st%3D1718658133~exp%3D1718659933~acl%3D%2Fi%2F27456795_10633798_lsios54vypsrmhrllyb_1%40688712%2F%2A~hmac%3D341813c25b717f1a29eb888c8d335b8ea53c4390749def0dde4f0233737d788d&token=6670a581_7ee346b8ae9b5119d05da681498adfa3af50cb8e
+#EXTINF:-1 tvg-id="Digital15" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Funcional",Digital 15 2
+https://playback.akamaized.net/streams/27456795_10633798_lsios54vypsrmhrllyb_1/master.m3u8?dw=14400&hdnts=exp=1718658445~acl=/streams/27456795_10633798_lsios54vypsrmhrllyb_1/master.m3u8*~hmac=9398bcb9a77cc85f0d01102d00b7046eddf0cdcfc269fb1c692f62af85e8696c
 #EXTINF:-1 tvg-id="Telemicro5" tvg-logo="https://imagedelivery.net/NLRdvd00lh1oHv32qhXM9g/1611032b-75a5-4f11-d29c-da38dfd19f00/w=400,h=400,fit=crop" group-title="Funcional",Telemicro 5(1080p)
 https://playback.akamaized.net/streams/27456795_10501048_lsi4vxl15l1pzzduyam_1/master.m3u8?dw=14400&hdnts=exp=1718657422~acl=/streams/27456795_10501048_lsi4vxl15l1pzzduyam_1/master.m3u8*~hmac=714be033e9a7b7c37ee333c82973ba06f366d6d387f977f14fc17197f6f40cd3
 #EXTINF:-1 tvg-id="Telemicro2" tvg-logo="" group-title="Funcional",Telemicro 2
