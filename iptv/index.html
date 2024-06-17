@@ -74,6 +74,9 @@
     <script src="https://vjs.zencdn.net/7.14.3/video.min.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
+            // URL del repositorio con los archivos m3u8
+            const repoUrl = 'https://ivangabriel21.github.io/repositorio.github.io/iptv/';
+
             // Lista de archivos m3u8 (simulando la lectura de archivos en el directorio)
             const m3u8Files = [
                 'example1.m3u8',
@@ -92,7 +95,7 @@
                 btn.onclick = () => {
                     videoContainer.style.display = 'block';
                     videoPlayer.src({
-                        src: file,
+                        src: repoUrl + file,
                         type: 'application/x-mpegURL'
                     });
                     videoPlayer.play();
