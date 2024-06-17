@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script>
+        function login(event) {
+            event.preventDefault();
+            const username = document.querySelector('input[name="username"]').value;
+            const password = document.querySelector('input[name="password"]').value;
+
+            // Aquí puedes agregar una validación simple para el ejemplo
+            if (username === 'user' && password === 'password') {
+                // Establecer una cookie de sesión
+                document.cookie = "loggedIn=true; path=/";
+                alert("Inicio de sesión exitoso");
+                window.location.href = "/iptv/";
+            } else {
+                alert('Usuario o contraseña incorrectos');
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="login-container">
+        <form class="login-form" onsubmit="login(event)">
+            <h2 class="title">Iniciar Sesión</h2>
+            <div class="input-field">
+                <i class="fas fa-user"></i>
+                <input type="text" name="username" placeholder="Username" required>
+            </div>
+            <div class="input-field">
+                <i class="fas fa-lock"></i>
+                <input type="password" name="password" placeholder="Password" required>
+            </div>
+            <button type="submit" class="btn solid">Login</button>
+        </form>
+    </div>
+</body>
+</html>
