@@ -35,7 +35,6 @@
         .video-list {
             list-style-type: none;
             padding: 0;
-            text-align: center;
         }
         .video-list li {
             margin-bottom: 10px;
@@ -44,7 +43,7 @@
             background: #4ca1af;
             color: white;
             border: none;
-            padding: 10px 20px;
+            padding: 10px;
             border-radius: 5px;
             cursor: pointer;
             font-size: 16px;
@@ -75,41 +74,32 @@
     <script src="https://vjs.zencdn.net/7.14.3/video.min.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            const url = 'https://ivangabriel21.github.io/repositorio.github.io/iptv/';
+            // Lista de archivos m3u8 (simulando la lectura de archivos en el directorio)
+            const m3u8Files = [
+                'example1.m3u8',
+                'example2.m3u8'
+            ];
+
             const videoList = document.getElementById('video-list');
             const videoContainer = document.getElementById('video-container');
             const videoPlayer = videojs('video-player');
 
-            fetch(url)
-                .then(response => response.text())
-                .then(data => {
-                    // Parseamos el HTML recibido para extraer los links de los archivos m3u8
-                    const parser = new DOMParser();
-                    const htmlDocument = parser.parseFromString(data, 'text/html');
-                    const links = Array.from(htmlDocument.querySelectorAll('a'))
-                                      .map(link => link.href)
-                                      .filter(href => href.endsWith('.m3u8'));
-
-                    // Mostrar los links en la lista
-                    links.forEach(link => {
-                        const fileName = link.split('/').pop(); // Obtener solo el nombre del archivo
-                        const li = document.createElement('li');
-                        const btn = document.createElement('button');
-                        btn.classList.add('btn');
-                        btn.textContent = `Reproducir ${fileName}`;
-                        btn.onclick = () => {
-                            videoContainer.style.display = 'block';
-                            videoPlayer.src({
-                                src: link,
-                                type: 'application/x-mpegURL'
-                            });
-                            videoPlayer.play();
-                        };
-                        li.appendChild(btn);
-                        videoList.appendChild(li);
+            m3u8Files.forEach(file => {
+                const li = document.createElement('li');
+                const btn = document.createElement('button');
+                btn.classList.add('btn');
+                btn.textContent = `Reproducir ${file}`;
+                btn.onclick = () => {
+                    videoContainer.style.display = 'block';
+                    videoPlayer.src({
+                        src: file,
+                        type: 'application/x-mpegURL'
                     });
-                })
-                .catch(error => console.error('Error fetching data:', error));
+                    videoPlayer.play();
+                };
+                li.appendChild(btn);
+                videoList.appendChild(li);
+            });
         });
     </script>
 </body>
