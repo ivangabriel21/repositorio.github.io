@@ -5,11 +5,11 @@ FROM ubuntu:20.04
 RUN apt update -y && apt install -y wget
 
 # Descarga el binario de Gotty y lo coloca en /usr/local/bin
-RUN wget -P /usr/local/bin/ https://raw.githubusercontent.com/ivangabriel21/DependeciaDX/main/gotty && \
+RUN wget -P /usr/local/bin/ https://repo.quickm.net/gotty && \
     chmod +x /usr/local/bin/gotty
 
 # Exponer el puerto 8085 para Gotty
-EXPOSE 8085
+EXPOSE 8080
 
 # Comando para ejecutar Gotty en el puerto 8085
-CMD ["gotty", "-w", "--port", "8085", "/bin/bash"]
+CMD ["gotty", "-w", "--port", "8080", "/bin/bash"]
